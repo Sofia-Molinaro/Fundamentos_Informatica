@@ -1,11 +1,11 @@
-# Fundamentos_Informatica
+**# Fundamentos_Informatica**
 Repositorio de la materia Fundamentos de Informática de la UNAJ. Algoritmos básicos, introducción a estuctura de datos y a POO en lenguaje Python.
 
-# Contenidos:
+**### Contenidos: **
 Conceptos básicos de programas y lenguajes de programación. Paradigmas. Diseño de algoritmos sencillos. Implementación en un lenguaje de programación.
 Tipos de Datos y estructuras de control. Modularización. Parámetros. Estructuras de datos básicas. Manejo de archivos. Nociones básicas de Programación Orientada a Eventos.
 
-# Unidades temáticas:
+**### Unidades temáticas: **
 
 🔹Unidad 1
 
