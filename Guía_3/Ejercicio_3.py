@@ -47,7 +47,7 @@ def goleador(equipos):
 def desciende(equipos):
     #resuelvo que equipo desciende()
     #código
-    #devuelvo el goleador
+    #devuelvo el equipo que desciende
    for i in range(0, len(equipos)):
         if i == 0:
             equipoDesciende = equipos[i][0] # Nombre del primer equipo
