@@ -13,19 +13,19 @@
 
 def transporteSegunLaCantidadDePersonas(cantidadDePersonas):
     if cantidadDePersonas == 1:
-        respuesta = print("Bicicleta")
+        respuesta = "Bicicleta"
     elif cantidadDePersonas == 2:
-        respuesta = print("Moto")
+        respuesta = "Moto"
     elif cantidadDePersonas <= 4:
-        respuesta = print("Auto")
+        respuesta = "Auto"
     elif cantidadDePersonas <= 12:
-        respuesta = print("Camioneta")
+        respuesta = "Camioneta"
     elif cantidadDePersonas <= 40:
-        respuesta = print("Colectivo")
+        respuesta = "Colectivo"
     elif cantidadDePersonas <= 200:
-        respuesta = print("Avión")
+        respuesta = "Avión"
     else:
-        respuesta = print("Inténtelo nuevamente.")
+        respuesta = "Inténtelo nuevamente."
         return respuesta
 
 personas = int(input ("Ingrese la cantidad de personas que va a viajar: "))
